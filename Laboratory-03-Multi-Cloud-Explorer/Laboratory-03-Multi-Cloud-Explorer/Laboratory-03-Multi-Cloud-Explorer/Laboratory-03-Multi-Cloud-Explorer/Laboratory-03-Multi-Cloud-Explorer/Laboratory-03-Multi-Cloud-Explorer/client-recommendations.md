@@ -82,3 +82,12 @@ AWS is a good choice for a startup because it provides a wide range of cloud ser
 | **Client C – AI Research Company** | **GCP**              | Strong AI, ML, data analytics, and Kubernetes capabilities                  |
 | **Client D – Global E-Commerce**   | **AWS**              | Global infrastructure, high availability, and automatic scaling             |
 
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides a wide range of scalable services and flexible cloud resources that are suitable for startups with limited budgets and growing workloads. |
+| Enterprise Organization | AWS | AWS offers a broad ecosystem of cloud services, strong security features, scalability, and enterprise capabilities for large organizations. |
+| Microsoft Environment | Azure | Azure provides strong integration with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | GCP | GCP provides strong AI and machine learning services such as Vertex AI, along with powerful computing and data analytics capabilities. |
+| Kubernetes Deployment | GCP | GCP is a strong choice for Kubernetes because Google developed Kubernetes and provides Google Kubernetes Engine (GKE) as a managed Kubernetes service. |
+| Global Web Application | AWS | AWS provides extensive global infrastructure, multiple regions and availability zones, load balancing, and automatic scaling for worldwide web applications. |
