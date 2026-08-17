@@ -294,3 +294,20 @@ There is no single cloud provider that is best for every organization. The best 
 [4]: https://docs.cloud.google.com/vpc/docs?utm_source=chatgpt.com "Virtual Private Cloud documentation  |  Google Cloud Documentation"
 [5]: https://learn.microsoft.com/en-us/entra/identity/devices/howto-vm-sign-in-azure-ad-windows?utm_source=chatgpt.com "Sign in to a Windows virtual machine in Azure by using Microsoft Entra ID - Microsoft Entra ID | Microsoft Learn"
 
+
+
+# Part 11 — Match Equivalent Cloud Services
+
+Add the following table to your `cloud-platform-comparison.md` file:
+
+| Service Category        | AWS        | Azure                          | GCP                            |
+| ----------------------- | ---------- | ------------------------------ | ------------------------------ |
+| **Virtual Machine**     | Amazon EC2 | Azure Virtual Machines         | Google Compute Engine          |
+| **Object Storage**      | Amazon S3  | Azure Blob Storage             | Google Cloud Storage           |
+| **Identity Management** | AWS IAM    | Microsoft Entra ID             | Google Cloud IAM               |
+| **SQL Database**        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| **Kubernetes**          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+
+
+
