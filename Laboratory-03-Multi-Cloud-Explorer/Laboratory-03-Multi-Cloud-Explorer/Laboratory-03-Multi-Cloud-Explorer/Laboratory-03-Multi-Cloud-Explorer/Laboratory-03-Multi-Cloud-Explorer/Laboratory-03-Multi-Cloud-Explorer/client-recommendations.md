@@ -90,4 +90,4 @@ AWS is a good choice for a startup because it provides a wide range of cloud ser
 | Microsoft Environment | Azure | Azure provides strong integration with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID. |
 | AI / Machine Learning | GCP | GCP provides strong AI and machine learning services such as Vertex AI, along with powerful computing and data analytics capabilities. |
 | Kubernetes Deployment | GCP | GCP is a strong choice for Kubernetes because Google developed Kubernetes and provides Google Kubernetes Engine (GKE) as a managed Kubernetes service. |
-| Global Web Application | AWS | AWS provides extensive global infrastructure, multiple regions and availability zones, load balancing, and automatic scaling for worldwide web applications. |
+| Global Web Application | AWS | AWS provides extensive global infrastructure, multiple regions and availability zones, load balancing, and automatic scaling for worldwide web applications.. |
