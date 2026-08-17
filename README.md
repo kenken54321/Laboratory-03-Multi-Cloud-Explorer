@@ -118,25 +118,22 @@ The screenshots below provide evidence of the Linux investigation performed in t
 
 The terminal shows that the server is running **Ubuntu 24.04.4 LTS**.
 
-![KillerCoda Operating System](screenshots/killercoda-terminal.png)
 
 ### Evidence 2 — CPU Information
 
 The `lscpu` command shows the server's architecture, CPU count, vendor, and processor model.
 
-![KillerCoda CPU Information](screenshots/killercoda-terminal.png)
 
 ### Evidence 3 — Memory
 
 The `free -h` command shows approximately **2.2 GiB total memory**, **1.3 GiB used**, and **964 MiB available**.
 
-![KillerCoda Memory](screenshots/killercoda-terminal.png)
 
 ### Evidence 4 — Disk Space
 
 The `df -h` command shows that `/dev/vda1` has **19 GB total**, **11 GB used**, **7.5 GB available**, and **60% usage**.
 
-![KillerCoda Disk Space](screenshots/killercoda-terminal.png)
+
 
 ---
 
