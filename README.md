@@ -1,4 +1,3 @@
-# Laboratory-03-Multi-Cloud-Explorer
 
 # Laboratory 03 – Multi-Cloud Explorer
 
